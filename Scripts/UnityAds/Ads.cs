@@ -6,10 +6,10 @@ using UnityEngine.UI;
 
 public class Ads : MonoBehaviour, IUnityAdsListener
 {
-    private string appStoreID = "3809256";
+    private string appStoreID = "This info is private";
 
     //App only available for Android
-    private string playStoreID = "3809257";
+    private string playStoreID = "This info is private";
 
     private string interstitialAd = "video";
 
